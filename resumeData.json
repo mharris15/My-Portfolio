@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name":"Michael Y. Harris",
+    "description":"I am a software developer. Welcome to my portfolio website!",
+    "image":"profilepic.jpg",
+    "bio":"Growing up in Columbus, Ohio I have always wanted to be a software developer. When I graduated from The Ohio State University in 2019 with my Bachelor of Science in Computer and Information Science I was ready to make my dream a reality. Alongside my career I am always learning new technologies and developing video games. Outside of work and coding I love to play piano and hang with friends.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "michael.harris.2015@gmail.com",
+    "phone": "(614)-216-3724",
+    "github":"https://github.com/mharris15",
+    "linkedin":"https://www.linkedin.com/in/michael-harris-2ba964191/",
+    "chess":"https://www.chess.com/member/mharris22",
+    "address":{
+      "street":"",
+      "city":"Pickerington",
+      "state":"Ohio",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/e/2PACX-1vTtIyTFkccS_7h1qWqkiRB_CpOSlURud-fW4nEHMtzD9A0JF2t7xqlnMWPrFzaB9mrXbndY-xEROUqq/pub",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my favorite languages and technologies",
+    "education":[
+      {
+        "school":"The Ohio State University",
+        "degree":"Bachelor of Science in Computer and Information Science",
+        "graduated":"December 2019",
+        "description":"Relevant Coursework: Software Engineering; Operating Systems; Algorithms; Artificial Intelligence; System Design,Computer Games and Animation Techniques"
+      }
+    ],
+    "work":[
+      {
+        "company":"Impower.ai",
+        "title":"Automation Developer",
+        "years":"November 2021 - Present",
+        "description":"Using UiPath to deliver the capabilities of true digital transformation to customers through Robotic Process Automation, Analytics, Machine Learning, and Artificial Intelligence. Automating business processes to eliminate unnecessary manual work from organizations. Building regression suites for QA automation testing."
+      },
+      {
+        "company":"American Electric Power (AEP)",
+        "title":"RPA Software Developer",
+        "years":"May 2020 - December 2021",
+        "description":"Developed automation software while interacting with business owners, understanding complex processes, and designing anddeveloping effective and scalable Robotic Process Automations (RPA) processes to enhance business process efficiency. Implemented automations saving businesses up to $200,000 dollars and saving hundreds of hours of work. Designed and tested automations that navigate websites, use APIs, and databases. Supported deployments and/or troubleshoot production issues"    
+      }
+    ],
+    "skills":[
+      {
+        "name": "UiPath",
+        "description": "I use UiPath for all of my automation projects so far. I have used UiPath to automate and test over websites, documents, APIs, and databases",
+        "image": "uipath.png"
+      },
+      {
+        "name": "C#",
+        "description": "C# is probably my favorite coding language, as well as the language I am most familiar with. I have used C# to create automations with UiPath and develop games in Unity.",
+        "image": "csharp.png"
+      },
+      {
+        "name": "Unity",
+        "description": "Used Unity to develop video games. Used Unity to mess with animation and lighting algorithms as well as developed a horror game for my capstone project at The Ohio State.",
+        "image": "unity.png"
+      },
+      {
+        "name": "Java",
+        "description": "I am really familiar with Java programming language, I started using this language in college years ago. It is the language I used for all my course work at The Ohio State University including for my data-structure and algorithm programming classes.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React, it is a nice framework and this website is written with it.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "C++ ",
+        "description": "This was my first programming language and it will always have a special place in my heart.",
+        "image": "cplusplus.png"
+      },
+      {
+        "name": "Visual Studio",
+        "description": "This is the IDE I am most familiar with and enjoy the most working with.",
+        "image": "visual-studio.png"
+      },
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects version control.",
+        "image": "git.jpg"
+      }
+    ]
+  }
+}
