@@ -2,7 +2,7 @@
   "main": {
     "name":"Michael Y. Harris",
     "description":"I am a software developer. Welcome to my portfolio website!",
-    "image":"profilepic.jpg",
+    "image":"profilepic.JPG",
     "bio":"Growing up in Columbus, Ohio I have always wanted to be a software developer. When I graduated from The Ohio State University in 2019 with my Bachelor of Science in Computer and Information Science I was ready to make my dream a reality. Alongside my career I am always learning new technologies and developing video games. Outside of work and coding I love to play piano and hang with friends.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "michael.harris.2015@gmail.com",
@@ -38,7 +38,7 @@
         "school":"The Ohio State University",
         "degree":"Bachelor of Science in Computer and Information Science",
         "graduated":"December 2019",
-        "description":"Relevant Coursework: Software Engineering; Operating Systems; Algorithms; Artificial Intelligence; System Design,Computer Games and Animation Techniques"
+        "description":"Relevant Coursework: Software Engineering; Operating Systems; Algorithms; Artificial Intelligence; System Design, Computer Games and Animation Techniques"
       }
     ],
     "work":[
@@ -58,7 +58,7 @@
     "skills":[
       {
         "name": "UiPath",
-        "description": "I use UiPath for all of my automation projects so far. I have used UiPath to automate and test over websites, documents, APIs, and databases",
+        "description": "I use UiPath for all of my automation projects so far. I have used UiPath to automate and test over websites, documents, APIs, and databases.",
         "image": "uipath.png"
       },
       {
@@ -68,7 +68,7 @@
       },
       {
         "name": "Unity",
-        "description": "Used Unity to develop video games. Used Unity to mess with animation and lighting algorithms as well as developed a horror game for my capstone project at The Ohio State.",
+        "description": "Used Unity to develop video games. Used Unity to mess with animation and lighting algorithms as well as developed a horror game for my capstone project at The Ohio State University.",
         "image": "unity.png"
       },
       {
