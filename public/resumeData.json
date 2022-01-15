@@ -1,42 +1,28 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Michael Y. Harris",
+    "description":"I am a software developer. Welcome to my portfolio website!",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Growing up in Columbus, Ohio I have always wanted to be a software developer. When I graduated from The Ohio State University in 2019 with my Bachelor of Science in Computer and Information Science I was ready to make my dream a reality. Alongside my career I am always learning new technologies and developing video games. Outside of work and coding I love to play piano and hang with friends.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "michael.harris.2015@gmail.com",
+    "phone": "(614)-216-3724",
+    "github":"https://github.com/mharris15",
+    "linkedin":"https://www.linkedin.com/in/michael-harris-2ba964191/",
+    "chess":"https://www.chess.com/member/mharris22",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Pickerington",
+      "state":"Ohio",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/e/2PACX-1vTtIyTFkccS_7h1qWqkiRB_CpOSlURud-fW4nEHMtzD9A0JF2t7xqlnMWPrFzaB9mrXbndY-xEROUqq/pub",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -46,139 +32,69 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of my favorite languages and technologies",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The Ohio State University",
+        "degree":"Bachelor of Science in Computer and Information Science",
+        "graduated":"December 2019",
+        "description":"Relevant Coursework: Software Engineering; Operating Systems; Algorithms; Artificial Intelligence; System Design,Computer Games and Animation Techniques"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Impower.ai",
+        "title":"Automation Developer",
+        "years":"November 2021 - Present",
+        "description":"Using UiPath to deliver the capabilities of true digital transformation to customers through Robotic Process Automation, Analytics, Machine Learning, and Artificial Intelligence. Automating business processes to eliminate unnecessary manual work from organizations. Building regression suites for QA automation testing."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"American Electric Power (AEP)",
+        "title":"RPA Software Developer",
+        "years":"May 2020 - December 2021",
+        "description":"Developed automation software while interacting with business owners, understanding complex processes, and designing anddeveloping effective and scalable Robotic Process Automations (RPA) processes to enhance business process efficiency. Implemented automations saving businesses up to $200,000 dollars and saving hundreds of hours of work. Designed and tested automations that navigate websites, use APIs, and databases. Supported deployments and/or troubleshoot production issues"    
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name": "UiPath",
+        "description": "I use UiPath for all of my automation projects so far. I have used UiPath to automate and test over websites, documents, APIs, and databases",
+        "image": "uipath.png"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name": "C#",
+        "description": "C# is probably my favorite coding language, as well as the language I am most familiar with. I have used C# to create automations with UiPath and develop games in Unity.",
+        "image": "csharp.png"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Unity",
+        "description": "Used Unity to develop video games. Used Unity to mess with animation and lighting algorithms as well as developed a horror game for my capstone project at The Ohio State.",
+        "image": "unity.png"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Java",
+        "description": "I am really familiar with Java programming language, I started using this language in college years ago. It is the language I used for all my course work at The Ohio State University including for my data-structure and algorithm programming classes.",
+        "image": "java.jpg"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name": "React Js",
+        "description": "I am fairly new to React, it is a nice framework and this website is written with it.",
+        "image": "react.jpg"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name": "C++ ",
+        "description": "This was my first programming language and it will always have a special place in my heart.",
+        "image": "cplusplus.png"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "name": "Visual Studio",
+        "description": "This is the IDE I am most familiar with and enjoy the most working with.",
+        "image": "visual-studio.png"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "name": "Git",
+        "description": "I use Git for all of my projects version control.",
+        "image": "git.jpg"
       }
     ]
   }

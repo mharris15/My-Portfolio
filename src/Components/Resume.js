@@ -41,19 +41,16 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + skills.name.toLowerCase();
-      const width = skills.level;
-
-      return (
-        <li key={skills.name}>
-          <span style={{ width, backgroundColor }} className={className}></span>
-          <em>{skills.name}</em>
-        </li>
-      );
-    });
-
+    var skills = this.props.data.skills.map(function(skills){
+      var projectImage = 'images/tech/'+skills.image;
+        return <div key={skills.name} className="columns feature-item">
+                  <img className='skill' alt={skills.name} src={projectImage} />
+                  <h5>{skills.name}</h5>
+                  <p>{skills.description}</p>
+               </div>
+      })
+    
+    
     return (
       <section id="resume">
         <Slide left duration={1300}>
@@ -87,17 +84,14 @@ class Resume extends Component {
         <Slide left duration={1300}>
           <div className="row skill">
             <div className="three columns header-col">
-              <h1>
-                <span>Skills</span>
-              </h1>
+              <h1><span>Favorite Tech</span></h1>
             </div>
 
-            <div className="nine columns main-col">
-              <p>{skillmessage}</p>
-
-              <div className="bars">
-                <ul className="skills">{skills}</ul>
-              </div>
+          <div>
+            <div className="nine columns main-col"><p className="lead center">{skillmessage}</p></div>
+              <ul className="bgrid-quarters s-bgrid-thirds cf">
+              {skills}
+              </ul>
             </div>
           </div>
         </Slide>
